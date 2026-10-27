@@ -34,7 +34,7 @@ O projeto conta com os seguintes recursos disponibilizados para a montagem da p�
 ## 🛠️ Tecnologias Utilizadas
 
 * **HTML5** (Marcação e estruturação)
-* **CSS3** (Estilização e layout)
+* **CSS3** (Estilização)
 * **Git e GitHub** (Controle de versão e histórico de commits)
 
 ---
