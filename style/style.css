@@ -30,7 +30,7 @@ h1, h2, h3{
     background-repeat: no-repeat; 
   
     margin: 50px 40px 40px 10px;
-    height: 400px;
+    height: 450px;
     width: 100%;
 }
 
@@ -120,4 +120,10 @@ a:hover{
     color: rgb(0, 112, 112);
     margin-top: 50px ;
     padding: 0.5px;
+}
+
+.solto{
+    color: #003d52;
+    margin-top: 40px;
+    margin-bottom: 30px;
 }
